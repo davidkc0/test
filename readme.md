@@ -1,3 +1,3 @@
- Who is your favorite teacher? 
+Who is your favorite teacher? 
 
-what is your favorite color?
+What is your favorite color?
